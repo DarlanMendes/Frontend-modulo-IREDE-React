@@ -1,0 +1,5 @@
+## Aula 02 
+Na segunda aula do módulo de Frontend, dedicada ao React, concentramo-nos na exploração das props. Exploramos como passá-las entre componentes, examinamos sua estrutura, exploramos seu uso como um array-like e discutimos técnicas de desestruturação. Além disso, abordamos diversos métodos de renderização, incluindo estilização condicional, condicional para componentes( https://pt-br.react.dev/learn/conditional-rendering ) e a renderização de listas utilizando o método map( https://pt-br.react.dev/learn/rendering-lists ).
+<br/>
+<br/>
+Na segunda parte da aula, revisamos alguns conceitos de estilização, destacando a aplicação do display flex e sua implementação prática através do Tailwind CSS(https://tailwindcss.com/docs/flex-direction). Também relembramos o conceito de breakpoints e a abordagem mobile-first incorporada no framework. Este mergulho profundo nos conceitos de React e estilização proporcionou uma compreensão abrangente, essencial para o desenvolvimento eficaz de interfaces web dinâmicas e responsivas.
