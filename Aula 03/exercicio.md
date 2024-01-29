@@ -1,0 +1,5 @@
+Aula 03 -  `useState` e `useEffect` (Hooks)
+
+Neste exercício, você terá a oportunidade de aplicar os conceitos discutidos em sala em um mini-aplicativo. A proposta é simular o contador de itens em um cardápio. O design do aplicativo está disponível no Figma, acessível pelo link: [Figma - IREDEFOOD](https://www.figma.com/file/7ldnCpOUJ38f6DvCQRdCO1/IREDEFOOD?type=design&node-id=0%3A1&mode=design&t=aLphoXTr5gbNFwag-1).
+
+Ao clicar em "adicionar" ou "subtrair" um item, um contador de itens (carrinho) deve ser exibido, mostrando o total de itens adicionados, e o contador de itens do card do produto deve ser modificado. Para alcançar isso, utilize um estado para o total de itens adicionados e outro estado para exibir os itens no card do produto. Faça uso do `useEffect` para monitorar as mudanças de estado e garantir uma resposta adequada às interações do usuário. Este exercício prático visa consolidar seus conhecimentos na aplicação efetiva de `useState` e `useEffect`, contribuindo para o entendimento desses importantes hooks no contexto do React.
