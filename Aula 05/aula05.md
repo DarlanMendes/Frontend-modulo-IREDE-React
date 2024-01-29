@@ -1,0 +1,5 @@
+## Aula 05
+
+Na quinta aula do módulo Frontend, exploramos a essencial comunicação entre o backend e frontend por meio de APIs (Application Programming Interface). Aproveitamos a ocasião para revisitar conceitos fundamentais, como cliente, servidor e parte do protocolo HTTP, destacando principalmente os principais verbos essenciais para a implementação de operações CRUD: GET, POST, PUT, PATCH e DELETE. Esses conceitos são cruciais para compreender como os dados são transmitidos e manipulados entre a interface do usuário e o servidor, formando a base sólida para o desenvolvimento eficaz de aplicações web interativas e dinâmicas.
+<br/>
+Na segunda parte da aula, iniciamos a atividade de casa de forma compartilhada, de modo que todos puderam dar sua contribuição na implementação de uma lista telefônica.
