@@ -1,0 +1,6 @@
+
+  # FRONTEND - REACT JS
+Seja extremamente bem-vindo ao guia de estudos dedicado ao módulo React JS da residência TIC 10. Este material foi meticulosamente elaborado para proporcionar uma revisão abrangente do conteúdo ministrado durante as aulas, oferecendo a você a oportunidade de consolidar seus conhecimentos ao revisitar os temas discutidos. Além disso, este guia propicia aprofundamento por meio da revisão dos exercícios práticos realizados em sala de aula. Com o intuito de otimizar sua preparação e potencializar seu aprendizado, este guia foi concebido para auxiliar no alcance do domínio efetivo do React JS. Aproveite plenamente esta ferramenta e desfrute de uma experiência de estudo enriquecedora!
+
+## Guia
+Dentro deste material, você tem à disposição uma pasta para cada aula, contendo um arquivo .md que resume o conteúdo abordado em sala, incluindo links para aprofundamento e revisão de tópicos cruciais. Adicionalmente, cada pasta inclui o PDF da aula e o exercício prático correspondente. Este formato estruturado visa facilitar sua navegação, proporcionando uma organização eficaz para que você possa explorar e assimilar o conteúdo de maneira clara e eficiente.
