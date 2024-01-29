@@ -1,0 +1,7 @@
+## Aula 04
+
+Na quarta aula do módulo de Frontend, aprofundamo-nos nos conceitos relacionados à criação e manipulação de formulários em React. Exploramos diversas bibliotecas, tais como [Final Form](https://final-form.org/react) e [React Hook Form](https://react-hook-form.com/), e até mesmo aquelas recomendadas pelos desenvolvedores do React, como [Formik](https://formik.org/), visando simplificar e aprimorar a manipulação de formulários.
+
+Durante o exercício prático conduzido em sala, compreendemos como prevenir o comportamento padrão do formulário usando o método `preventDefault`. Adicionalmente, exploramos a aplicação da callback no método de manipulação de estado para acessar o estado anterior, conhecido como `prevState`. Esses conceitos práticos são fundamentais para o desenvolvimento eficiente e controlado de formulários em aplicações React, proporcionando uma compreensão mais profunda do fluxo de dados e interações no contexto dos formulários web.
+
+Na segunda parte da aula, abordamos as possibilidades de persistência de informações em aplicações reativas, como aquelas desenvolvidas com React. Exploramos métodos como [localStorage](https://josiaspereira.com.br/como-usar-localstorage-no-reactjs/) e [session storage](https://contactmentor.com/session-storage-react-js/), discutindo estratégias para contornar os efeitos colaterais do recarregamento de páginas e garantir a persistência de estados. Essa compreensão é vital para a construção de aplicações robustas e eficazes.
